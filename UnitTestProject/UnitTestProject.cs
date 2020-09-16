@@ -11,12 +11,18 @@ namespace UnitTestProject
         public void GetTotalPriceTest()
         {
             //Arrange
-            var productcart = new ProductCartService();
-
+            var cart = new ProductCartService();
+            var ProductA = new GetTotalPrice {  };
+            var ProductB = new GetTotalPrice {  };
+            var ProductC = new GetTotalPrice {  };
+            var ProductD = new GetTotalPrice {  };
             // Act
-
-
-            //Assert
+            cart.Add(ProductA);
+            cart.Add(ProductB);
+            cart.Add(ProductC);
+            cart.Add(ProductD);
+            // Assert
+            Assert.AreEqual(2, cart.Items[0].Quantity);
 
 
 
