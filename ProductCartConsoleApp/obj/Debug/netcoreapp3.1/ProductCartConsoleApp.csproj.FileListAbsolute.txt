@@ -1,0 +1,12 @@
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\bin\Debug\netcoreapp3.1\ProductCartConsoleApp.exe
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\bin\Debug\netcoreapp3.1\ProductCartConsoleApp.deps.json
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\bin\Debug\netcoreapp3.1\ProductCartConsoleApp.runtimeconfig.json
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\bin\Debug\netcoreapp3.1\ProductCartConsoleApp.runtimeconfig.dev.json
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\bin\Debug\netcoreapp3.1\ProductCartConsoleApp.dll
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\bin\Debug\netcoreapp3.1\ProductCartConsoleApp.pdb
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\obj\Debug\netcoreapp3.1\ProductCartConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\obj\Debug\netcoreapp3.1\ProductCartConsoleApp.AssemblyInfo.cs
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\obj\Debug\netcoreapp3.1\ProductCartConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\obj\Debug\netcoreapp3.1\ProductCartConsoleApp.dll
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\obj\Debug\netcoreapp3.1\ProductCartConsoleApp.pdb
+C:\Users\ame\Desktop\ProductCartSConsoleApp\ProductCartConsoleApp\obj\Debug\netcoreapp3.1\ProductCartConsoleApp.genruntimeconfig.cache
